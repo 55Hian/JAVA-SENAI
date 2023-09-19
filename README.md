@@ -1,7 +1,7 @@
 # JAVA-SENAI
 ### Material desenvolvido durante as aulas de Java fundamentals
 
-INGREDIENTES
+##INGREDIENTES
 ============
 1. Ovos
 2. Queijo
@@ -9,7 +9,7 @@ INGREDIENTES
 4. Sal
 5. Óleo
 
-Utencilios
+##Utencilios
 ===========
 1. Fue
 2. Frigideira
@@ -18,7 +18,7 @@ Utencilios
 5. Tijela
 6. Prato
   
-Intruções
+##Intruções
 ===========
 
 1. Misture Ovo, queijo, presunto e sal na tijela.
@@ -29,12 +29,10 @@ Intruções
 6. Sirva em seguida
 
 --------------------------------------------
-em java:
+## em java:
 
-Public class Ingredientes{
+#### Public class Ingredientes{
+####  String nome;
+#### }
 
 
-  String nome;
-  
-
-}
