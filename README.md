@@ -41,11 +41,11 @@
 
 ### public class Utensilios{
 ###   String nome;
-###}
+### }
 
 ### public class Mistura{
 ###   Ingredientes[] mistura;
-###}
+### }
 
 ### Utensilios fue = new Utensilios();
 ### Utensilios frigideira = new Utensilios();
