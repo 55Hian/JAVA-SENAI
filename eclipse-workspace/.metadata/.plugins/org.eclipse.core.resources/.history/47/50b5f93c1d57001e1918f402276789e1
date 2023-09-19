@@ -14,7 +14,7 @@ public class TestarAluno {
 		
 		System.out.println(aluno.obterNome());
 		System.out.println(aluno2.obterNome());
-		System.out.println(serHumano3.nome);
+		System.out.println(serHumano3.obterNome());
 
 	}
 
