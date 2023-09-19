@@ -2,7 +2,6 @@
 ### Material desenvolvido durante as aulas de Java fundamentals
 
 ## INGREDIENTES
-============
 1. Ovos
 2. Queijo
 3. Presunto
@@ -41,6 +40,10 @@
 
 ### public class Utensilios{
 ###   String nome;
+###   public Mistura misturar)Ingredientes a, b, c, d, e){
+###     Ingredientes[] mistura = {a, b, c, d, e,}
+###     return mistura;
+###   }
 ### }
 
 ### public class Mistura{
@@ -56,9 +59,10 @@
 
 ### public class Omelete{
 ###   public static void main (String[] args){
+###     Mistura mistura = tijela.misturar(ovo, queijo, presunto, sal);
 ###     
-###  }
-###}
+###   }
+### }
 
 
 
