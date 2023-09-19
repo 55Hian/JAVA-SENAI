@@ -28,11 +28,17 @@
 5. Espere até que a mistura fique sólida
 6. Sirva em seguida
 
---------------------------------------------
 ## em java:
 
-#### Public class Ingredientes{
+#### public class Ingredientes{
 ####  String nome;
 #### }
+
+### Ingrediente ovo = new Ingrediente();
+### Ingrediente queijo = new Ingrediente();
+### Ingrediente presunto = new Ingrediente();
+
+
+
 
 
