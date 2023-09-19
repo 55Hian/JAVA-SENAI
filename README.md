@@ -3,28 +3,35 @@
 
 INGREDIENTES
 ============
-OVOS
-QUEIJO
-PRESUNTO
-SAL
-ÓLEO
-
+1. Ovos
+2. Queijo
+3. Presunto
+4. Sal
+5. Óleo
 
 Utencilios
 ===========
-Fue
-Frigideira
-Espatula
-fogão
-Tijela
-Prato
-
-
+1. Fue
+2. Frigideira
+3. Espatula
+4. Fogão
+5. Tijela
+6. Prato
+  
 Intruções
 ===========
-Misture Ovo, queijo, presunto e sal na tijela.
-Coloque óleo na frigideira
-Leve a frigideira ao fogo baixo
-Despeje a mistura da tijela na frigideira
-espere até que a mistura fique sólida
-Sirva em seguida
+
+1. Misture Ovo, queijo, presunto e sal na tijela.
+2. Coloque óleo na frigideira
+3. Leve a frigideira ao fogo baixo
+4. Despeje a mistura da tijela na frigideira
+5. Espere até que a mistura fique sólida
+6. Sirva em seguida
+
+--------------------------------------------
+em java:
+
+Public class Ingredientes{
+  String nome;
+
+}
