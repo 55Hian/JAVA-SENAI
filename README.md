@@ -29,16 +29,36 @@
 
 ## em java:
 
-#### public class Ingredientes{
-####  String nome;
-#### }
+### public class Ingredientes{
+###   String nome;
+### }
 
-#### Ingredientes ovo = new Ingredientes();
-#### Ingredientes queijo = new Ingredientes();
-#### Ingredientes presunto = new Ingredientes();
-#### Ingredientes sal = new Ingredientes();
-#### Ingredientes oleo = new Ingredientes();
+### Ingredientes ovo = new Ingredientes();
+### Ingredientes queijo = new Ingredientes();
+### Ingredientes presunto = new Ingredientes();
+### Ingredientes sal = new Ingredientes();
+### Ingredientes oleo = new Ingredientes();
 
+### public class Utensilios{
+###   String nome;
+###}
+
+### public class Mistura{
+###   Ingredientes[] mistura;
+###}
+
+### Utensilios fue = new Utensilios();
+### Utensilios frigideira = new Utensilios();
+### Utensilios espatula = new Utensilios();
+### Utensilios fogão = new Utensilios();
+### Utensilios tijela = new Utensilios();
+### Utensilios prato = new Utensilios();
+
+### public class Omelete{
+###   public static void main (String[] args){
+###     
+###  }
+###}
 
 
 
