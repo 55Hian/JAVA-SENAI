@@ -36,7 +36,7 @@ public class TestarAluno {
 		System.out.println("Curso: " +aluno.getCurso());
 		System.out.println("Nota: " +aluno.getMedia());
 		
-		System.out.println("--------------------");
+		System.out.println("----------------");
 		
 		System.out.println("nome: " + aluno2.obterNome());
 		System.out.println("ID: " +aluno2.getId());

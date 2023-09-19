@@ -11,7 +11,31 @@ public class Aluno {
 		this.nome = nome;
 	}
 	
+	public void setId(int id) {
+		identificacao=id;
+	}
+	
+	public void setCurso(String curso) {
+		this.curso = curso;
+	}
+	
+	public void setMedia(double med) {
+		media = med;
+	}
+	
 	public String obterNome() {
 		return nome;
+	}
+	
+	public int getId() {
+		return identificacao;
+	}
+	
+	public String getCurso() {
+		return curso;
+	}
+	
+	public double getMedia() {
+		return media;
 	}
 }
