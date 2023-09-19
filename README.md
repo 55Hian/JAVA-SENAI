@@ -33,9 +33,12 @@
 ####  String nome;
 #### }
 
-### Ingrediente ovo = new Ingrediente();
-### Ingrediente queijo = new Ingrediente();
-### Ingrediente presunto = new Ingrediente();
+#### Ingredientes ovo = new Ingredientes();
+#### Ingredientes queijo = new Ingredientes();
+#### Ingredientes presunto = new Ingredientes();
+#### Ingredientes sal = new Ingredientes();
+#### Ingredientes oleo = new Ingredientes();
+
 
 
 
