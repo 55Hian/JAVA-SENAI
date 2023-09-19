@@ -32,6 +32,7 @@ Intruções
 em java:
 
 Public class Ingredientes{
+
   String nome;
 
 }
