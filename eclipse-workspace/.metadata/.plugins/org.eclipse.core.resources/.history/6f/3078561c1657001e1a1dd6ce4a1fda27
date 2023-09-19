@@ -5,7 +5,6 @@ public class Aluno {
 	private int identificacao;
 	private String curso;
 	private double media;
-	public final int CFP_AUTOMOBILISTICA = 113;
 	
 	public void definirNome(String nome) {
 		this.nome = nome;
