@@ -1,0 +1,10 @@
+package olamundo;
+
+public class OlaMundo {
+	int ano = 2023;
+	public static void main (String[] args) {
+		System.out.println("Ola mundo");
+		System.out.println("estamos no ano de" + ano);
+	}
+
+}
