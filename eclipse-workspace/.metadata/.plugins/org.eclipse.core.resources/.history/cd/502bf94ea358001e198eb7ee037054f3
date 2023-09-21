@@ -1,0 +1,9 @@
+package javafundamentals;
+
+public class TiposDeDados {
+	
+	public static void main(String[] args) {
+		int x = 5.7;
+	}
+
+}

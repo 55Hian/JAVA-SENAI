@@ -1,0 +1,14 @@
+package javafundamentals;
+
+public class TiposDeDados {
+	
+	public static void main(String[] args) {
+		double x = 5.7;
+		
+		System.out.println("double x é: " + x);
+		
+		int y = 100;
+		System.out.println("int y é: " +  y);
+	}
+
+}
