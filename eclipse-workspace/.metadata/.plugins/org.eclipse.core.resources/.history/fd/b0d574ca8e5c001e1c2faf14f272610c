@@ -1,0 +1,16 @@
+package javafundamentals;
+
+public class OrientacaoObtejo {
+
+	public static void main(String[] args) {
+		
+		String nome = "Hian";
+		int matricula = 123456;
+		double media = 9.5;
+		
+		System.out.println("O nome do aluno é: " + nome);
+		System.out.println("A matricula do aluno é: " + matricula);
+		System.out.println("A média do aluno é: " + media);
+		
+	}
+}
